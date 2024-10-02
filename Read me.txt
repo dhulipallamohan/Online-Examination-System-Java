@@ -1,0 +1,14 @@
+Do not change file location otherwise images will not shown in project.
+Before run jar file make sure your database is on and import oes.sql file it will automatically creates a database named oes.
+Make sure you have java installed in your system.
+
+To run this project successfully follow these steps : 
+1. Download a database (WAMP , XAMP , MySql,etc).
+2. Import oes.sql file into the database.
+3. Credentials used in database should be : 
+    host : "localhost"
+	username : "root"
+	password : "" (which means null)
+	Note : refer to Connect.java file in source folder of this project present on
+
+	https://github.com/ARSHAD0141786/Online-Examination-System-Java
